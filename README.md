@@ -44,18 +44,15 @@
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/matheuseufrasio2" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-matheuseufrasio2-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/matheuseufra" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-matheuseufra-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/matheusveufrasio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-matheuseufrasio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/matheuseufrasio" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-matheuseufrasio-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
