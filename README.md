@@ -4,7 +4,7 @@
 
 - 🔥 Midlevel Web Developer focused on fullstack applications.
 
-- 🔭 I’m currently working at [ACT Digital](https://actdigital.com/)
+- 🔭 I’m currently working at [Metrobi](https://metrobi.com/)
 
 - 👨‍💻 All of my projects are available at [matheuseufrasio.com](https://matheuseufrasio.com)
 
