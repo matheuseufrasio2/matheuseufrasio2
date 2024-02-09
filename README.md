@@ -2,15 +2,15 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/matheuseufrasio2/42021d3c2f9c720e1da7447236c3da6a/raw/789c2a7936c6f8abc43b252c6aa30c7782328d1c/githubcard.svg"/>
 <h1 align="left">Hi, I'm Matheus Eufrásio</h1>
 
-- 🔥 Midlevel Web Developer focused on fullstack applications.
+- 🔥 Senior Sftware Engineer focused on fullstack applications.
 
 - 🔭 I’m currently working at [Metrobi](https://metrobi.com/)
 
-- 👨‍💻 All of my projects are available at [matheuseufrasio.com](https://matheuseufrasio.com)
+- 👨‍💻 All of my projects are available here
 
 - 🔗 Let's connect on [Linkedin](https://www.linkedin.com/in/matheusveufrasio/)
 
-- 💬 Ask me about **React, Next, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **React, React Native, Next, SQL, Node.JS**
 
 <br><br>
 
