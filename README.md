@@ -2,7 +2,7 @@
 <img align="right" height="590em" src="https://gist.githubusercontent.com/matheuseufrasio2/42021d3c2f9c720e1da7447236c3da6a/raw/789c2a7936c6f8abc43b252c6aa30c7782328d1c/githubcard.svg"/>
 <h1 align="left">Hi, I'm Matheus Eufrásio</h1>
 
-- 🔥 Senior Sftware Engineer focused on fullstack applications.
+- 🔥 Senior Software Engineer focused on fullstack applications.
 
 - 🔭 I’m currently working at [Metrobi](https://metrobi.com/)
 
